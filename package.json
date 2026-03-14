@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "time-synced-kanban",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Adds a kanban view that shifts along with a timeline above.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
